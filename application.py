@@ -17,8 +17,8 @@ def load_model():
 
 loaded_model, vectorizer = load_model()
 
-app = Flask(__name__)
-@app.route('/', methods=['GET', 'POST'])
+application = Flask(__name__)
+@application.route('/', methods=['GET', 'POST'])
 def index():
     prediction = None
     
@@ -34,4 +34,4 @@ def index():
 
 
 if __name__ == "__main__":
-    app.run()
+    application.run()
