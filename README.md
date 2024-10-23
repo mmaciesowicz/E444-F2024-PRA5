@@ -35,12 +35,12 @@ pytest tests/app_test.py
 ```
 
 ### Performance Box Plots
-![](./This_is_real_news_boxplot.png)
+![](./This_is_real_news_boxplot_1.png)
 
-![](./Summer_is_hot_boxplot.png)
+![](./Summer_is_hot_boxplot_1.png)
 
-![](./This_is_fake_news_boxplot.png)
+![](./This_is_fake_news_boxplot_1.png)
 
-![](./Summer_is_cold_boxplot.png)
+![](./Summer_is_cold_boxplot_1.png)
 
 Average Performance: ~0.047346s
