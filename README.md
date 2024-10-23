@@ -1,5 +1,6 @@
 # E444-F2024-PRA5
 PRA5 for ECE444
+Deployed app: http://pra5-env.eba-eky39tyb.us-east-1.elasticbeanstalk.com/
 
 # Instructions
 
